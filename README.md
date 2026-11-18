@@ -1,2 +1,2 @@
-# College-Classes
-Repository for all notes take from class from series 151
+# Collage-Classes
+Repository for all notes taken from class of series 151 at UniBuc 
